@@ -1,0 +1,2 @@
+[Name],[URL]
+Name_for_the_playlist,URL_to_playlist
